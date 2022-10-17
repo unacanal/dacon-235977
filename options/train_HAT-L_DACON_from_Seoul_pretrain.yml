@@ -47,7 +47,7 @@ network_g:
 
 # path
 path:
-  pretrain_network_g: experiments/train_HAT-L_Blind_Seoul_from_ImageNet_pretrain/models/net_g_115000.pth
+  pretrain_network_g: experiments/pretrained_models/HAT-L_Seoul_115K.pth
   strict_load_g: true
   resume_state: ~
 
