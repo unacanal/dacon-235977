@@ -129,7 +129,7 @@ class BaseModel():
         elif scheduler_type == 'CosineAnnealingRestartLR':
             for optimizer in self.optimizers:
                 self.schedulers.append(lr_scheduler.CosineAnnealingRestartLR(optimizer, **train_opt['scheduler']))
-        elif scheduler_type == 'TrueCosineAnnealingLR':
+        elif scheduler_type == 'CosineAnnealingLR':
             for optimizer in self.optimizers:
                 self.schedulers.append(
                     torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **train_opt['scheduler']))
