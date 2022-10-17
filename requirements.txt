@@ -1,0 +1,8 @@
+einops
+torch>=1.7
+opencv-python
+pyyaml
+matplotlib
+scipy
+tqdm
+tensorboard
