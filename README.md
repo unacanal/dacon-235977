@@ -1,17 +1,13 @@
 # **AI 양재 허브 인공지능 오픈소스 경진대회**
 
 ## Descriptions
-### [주제]
-이미지 초해상화(Image Super-Resolution)를 위한 AI 알고리즘 개발
-### [설명]
-품질이 저하된 저해상도 촬영 이미지(512X512)를 고품질의 고해상도 촬영 이미지(2048X2048)로 생성
-### [기간]
-2022.08.29 ~ 2022.10.10 09:59
-### [주최/주관]
-주최: AI 양재 허브
-주관: 데이콘
-### [홈페이지]
-[Link](https://www.dacon.io/competitions/official/235977/overview/description)
+|||
+|---|---|
+|    주제   | 이미지 초해상화(Image Super-Resolution)를 위한 AI 알고리즘 개발                               |
+| 설명      | 품질이 저하된 저해상도 촬영 이미지(512X512)를 고품질의 고해상도 촬영 이미지(2048X2048)로 생성 |
+| 기간      | 2022.08.29 ~ 2022.10.10 09:59                                                                 |
+| 주최/주관 | AI 양재 허브 / 데이콘 |
+| 홈페이지  | [https://www.dacon.io/competitions/official/235977/overview/description](https://www.dacon.io/competitions/official/235977/overview/description)                |
 
 
 ## About our team
